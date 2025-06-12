@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=1000&center=true&multiline=true&width=435&lines=Bem+vindo+ao+meu+reposit%C3%B3rio!;Meu+nome+%C3%A9+Claudio+Gardusi" alt="Typing SVG" /></a>
 </div>
 
-# Claudio Gardusi ⚡
+## Claudio Gardusi 🔹
 
 Bem-vindo ao meu repositório!  
 Sou apaixonado por tecnologia, desenvolvimento web e ciência de dados. Aqui você encontrará meus projetos, estudos e experimentos.
