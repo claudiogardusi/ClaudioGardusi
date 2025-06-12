@@ -56,7 +56,6 @@ Sou apaixonado por tecnologia, desenvolvimento web e ciência de dados. Aqui voc
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/claudiogardusi)
 - [E-mail](mailto:claudio.gardusi@hotmail.com)
 
 ---
