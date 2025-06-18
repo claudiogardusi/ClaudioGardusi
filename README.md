@@ -14,6 +14,10 @@ Sou apaixonado por tecnologia, desenvolvimento web e ciência de dados. Aqui voc
 - 👨‍💻 Desenvolvedor web e entusiasta de ciência de dados
 - 📚 Sempre aprendendo novas tecnologias e ferramentas
 - 🌎 Localização: São Paulo - Brasil
+---
+<div align="center">
+    <img src="https://raw.githubusercontent.com/claudiogardusi/claudiogardusi/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -34,16 +38,6 @@ Sou apaixonado por tecnologia, desenvolvimento web e ciência de dados. Aqui voc
     <code><img title="Pandas" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></code>
     <code><img title="Matplotlib" alt="Matplotlib" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-plain.svg" /></code>
 </div>
-
-<!-- ---
-
-## 📂 Projetos em destaque
-
-- [Projeto 1](#) — Breve descrição do projeto 1.
-- [Projeto 2](#) — Breve descrição do projeto 2.
-- [Projeto 3](#) — Breve descrição do projeto 3.
-
---- -->
 
 ## 📈 Estatísticas do GitHub
 
