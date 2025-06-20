@@ -42,8 +42,8 @@ Sou apaixonado por tecnologia, desenvolvimento web e ciência de dados. Aqui voc
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiogardusi&show_icons=true&theme=radical&rank_icon=github" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogardusi&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiogardusi&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&rank_icon=github" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogardusi&layout=compact&&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="Linguagens mais usadas"/>
 </div>
 
 ---
