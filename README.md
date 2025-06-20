@@ -16,7 +16,11 @@ Sou apaixonado por tecnologia, desenvolvimento web e ciência de dados. Aqui voc
 - 🌎 Localização: São Paulo - Brasil
 ---
 <div align="center">
-    <img src="svg/snake_dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="svg/snake_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="svg/snake_light.svg">
+  <img alt="Snake Game" src="svg/snake_dark.svg">
+</picture>
 </div>
 
 ---
