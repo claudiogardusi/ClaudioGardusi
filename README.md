@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e ciência de dados. Aqui voc
 - 🌎 Localização: São Paulo - Brasil
 ---
 <div align="center">
-    <img src="https://raw.githubusercontent.com/claudiogardusi/claudiogardusi/svg/snake_light.svg" alt="Snake animation" />
+    <img src="svg/snake_dark.svg" alt="Snake animation" />
 </div>
 
 ---
